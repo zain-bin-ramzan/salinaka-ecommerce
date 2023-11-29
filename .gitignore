@@ -1,0 +1,11 @@
+node_modules/
+.env
+.env.prod
+.env.dev
+dist/
+.firebase/
+package-lock.json
+debug.log
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
